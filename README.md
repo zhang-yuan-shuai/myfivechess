@@ -1,0 +1,2 @@
+# myfivechess
+一个基于FiveChess仓库的全志V3S芯片上的五子棋引擎
