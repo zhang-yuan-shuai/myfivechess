@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/ashuai/Desktop/learn-git/myfivechess/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/ashuai/Desktop/learn-git/myfivechess/main.cpp",
+  "file": "/home/ashuai/Desktop/learn-git/myfivechess/main.cpp"
+},
+{
+  "directory": "/home/ashuai/Desktop/learn-git/myfivechess/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/main.dir/ACSearcher.cpp.o -c /home/ashuai/Desktop/learn-git/myfivechess/ACSearcher.cpp",
+  "file": "/home/ashuai/Desktop/learn-git/myfivechess/ACSearcher.cpp"
+},
+{
+  "directory": "/home/ashuai/Desktop/learn-git/myfivechess/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/main.dir/ChessEngine.cpp.o -c /home/ashuai/Desktop/learn-git/myfivechess/ChessEngine.cpp",
+  "file": "/home/ashuai/Desktop/learn-git/myfivechess/ChessEngine.cpp"
+},
+{
+  "directory": "/home/ashuai/Desktop/learn-git/myfivechess/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/main.dir/PossiblePositionManager.cpp.o -c /home/ashuai/Desktop/learn-git/myfivechess/PossiblePositionManager.cpp",
+  "file": "/home/ashuai/Desktop/learn-git/myfivechess/PossiblePositionManager.cpp"
+}
+]

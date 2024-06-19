@@ -1,0 +1,3 @@
+/home/ashuai/Desktop/learn-git/myfivechess/CMakeFiles/rebuild_cache.dir
+/home/ashuai/Desktop/learn-git/myfivechess/CMakeFiles/edit_cache.dir
+/home/ashuai/Desktop/learn-git/myfivechess/CMakeFiles/main.dir

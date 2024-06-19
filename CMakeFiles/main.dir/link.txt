@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/ACSearcher.cpp.o CMakeFiles/main.dir/ChessEngine.cpp.o CMakeFiles/main.dir/PossiblePositionManager.cpp.o  -o main 
